@@ -1,3 +1,4 @@
 # GitHub-HowTo
 
-<h2> how to </h2>
+<h3> How to break line on github bio </h3>
+ 
