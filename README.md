@@ -2,6 +2,6 @@
 
 <h2> How to break line on GitHub Bio </h2>
 
-- copy and paste "Em Space" Unicode
+- copy and paste "Em Space" Unicode [here](https://unicode-table.com/en/2003/)
 
  ---
